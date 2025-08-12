@@ -32,7 +32,7 @@ Nabla aims to revolutionize the way we build software by providing an AI pair pr
 
 ## Key Features
 
-- 🤖 Supports **Claude 3**, **GPT-4**, **Gemini**, **Mistral** , **Groq** and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 3** family of models.
+- 🤖 Supports **Claude 3**, **GPT-4**, **Gemini**, **Mistral** , **Grok** and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 3** family of models.
 - 🧠 Advanced AI planning and reasoning capabilities
 - 🔍 Contextual keyword extraction for focused research
 - 🌐 Seamless web browsing and information gathering
