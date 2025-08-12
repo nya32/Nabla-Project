@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".assets/nabla-avatar.png" alt="Nabla Logo" width="250">
+  <img src=".assets/nabla-icon.alt.png" alt="Nabla Logo" width="250">
 </p>
 
 <h1 align="center">🚀 Nabla - Agentic AI Software Engineer 👩‍💻</h1>
@@ -32,7 +32,7 @@ Nabla aims to revolutionize the way we build software by providing an AI pair pr
 
 ## Key Features
 
-- 🤖 Supports **Claude 3**, **GPT-4**, **Gemini**, **Mistral** , **Grok** and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 3** family of models.
+- 🤖 Supports **Claude 4**, **GPT-5**, **Gemini**, **Mistral** , **Grok** and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 4** family of models.
 - 🧠 Advanced AI planning and reasoning capabilities
 - 🔍 Contextual keyword extraction for focused research
 - 🌐 Seamless web browsing and information gathering
